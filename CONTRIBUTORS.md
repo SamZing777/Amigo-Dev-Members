@@ -15,4 +15,4 @@
 - [@Ekeso Longe](https://github.com/ekesolonge)
 
 <!-- SamZing777 contribution -->
-- [@SamZing777] (https://github.com/samzing777)
+- [@SamZing777](https://github.com/samzing777)
